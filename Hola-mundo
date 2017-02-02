@@ -4,5 +4,6 @@
 int main ()
 {
 	cout<<"Hola mundo";
+	cout<<"Me gusta mas el cout";
 	getchar();
 }
